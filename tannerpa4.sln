@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "tannerpa4", "tannerpa4\tannerpa4.ccproj", "{356894BE-6715-4209-9582-16CB9CDFE444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA4WebRole", "PA4WebRole\PA4WebRole.csproj", "{56ADE651-9CA2-446F-9937-883ECA110D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA4WorkerRole", "PA4WorkerRole\PA4WorkerRole.csproj", "{9913E417-8743-4A20-A081-309E1ABF0074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356894BE-6715-4209-9582-16CB9CDFE444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356894BE-6715-4209-9582-16CB9CDFE444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356894BE-6715-4209-9582-16CB9CDFE444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356894BE-6715-4209-9582-16CB9CDFE444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ADE651-9CA2-446F-9937-883ECA110D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ADE651-9CA2-446F-9937-883ECA110D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ADE651-9CA2-446F-9937-883ECA110D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ADE651-9CA2-446F-9937-883ECA110D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9913E417-8743-4A20-A081-309E1ABF0074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9913E417-8743-4A20-A081-309E1ABF0074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9913E417-8743-4A20-A081-309E1ABF0074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9913E417-8743-4A20-A081-309E1ABF0074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
